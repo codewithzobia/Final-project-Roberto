@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+i:hover{
+    color: #1cc3b2 !important;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#white:hover{
+    cursor: pointer;
+    color: #b2b5bb !important;
+    transition: 0.3s;
+}
+#nav-link:hover{
+    color: #9d9ea0 !important;
+    cursor: pointer;
+}
+#center:hover{
+    background-color: #212529 !important;
+    cursor: pointer;
+    transition: 0.4s;
+}
+#style:hover{
+    background-color: #1cc3b2 !important;
+    cursor: pointer;
+    transition: 0.5s;
+}
+input:focus{
+    border: 2px solid #1cc3b2 !important;
+    outline: none !important;
+    transition: 0.3s;
+}
+#rounds:hover{
+    background-color: #fff !important;
+    color: #1cc3b2 !important;
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.10);
+}
+.gallery:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.single-service-area:hover{
+    cursor: pointer;
+    color: #1cc3b2;
+    transition: 0.4s;
+}
+#class:hover{
+    background-color: #fff !important;
+    color: #1cc3b2 !important;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.paragraph:hover{
+    color: #9d9ea0;   
+    transition: 0.4s;
+    cursor: pointer;
+}
